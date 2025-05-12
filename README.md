@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MWise92
-- 👀 I’m interested in learning new things and developing websites.
-- 🌱 I’m currently learning web development.
+- 👀 I’m interested in learning new things.
+- 🌱 I’m currently learning SQL and Excel.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me: mitchawise@gmail.com.
 
