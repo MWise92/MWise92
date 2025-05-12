@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Mitchell Wise.
-- 👀 I’m interested in learning new things.
-- 🌱 I’m currently learning SQL and Excel.
-- 💞️ I’m looking to collaborate on projects.
+- 🔎 I’m looking to start a career in data analytics.
+- 💻 I’m currently learning SQL and Excel.
 - 📫 How to reach me: mitchawise@gmail.com.
 
 <!---
