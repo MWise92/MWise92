@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Mitchell Wise.
-- 🔎 I’m looking to start a career in data analytics.
+- 👋 Hi, I’m Mitchell Wise | Aspiring Data Analyst.
 - 💻 I’m currently learning SQL and Excel.
 - 📫 How to reach me: mitchawise@gmail.com.
 
