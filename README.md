@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MWise92
+- 👋 Hi, I’m Mitchell Wise.
 - 👀 I’m interested in learning new things.
 - 🌱 I’m currently learning SQL and Excel.
 - 💞️ I’m looking to collaborate on projects.
